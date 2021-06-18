@@ -1,4 +1,4 @@
-# IntelliJ Platform Plugin Template
+# IntelliJ Platform Plugin Template Test
 
 [![official JetBrains project](https://jb.gg/badges/official.svg)][jb:confluence-on-gh]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JBPlatform?style=flat)][jb:twitter]
